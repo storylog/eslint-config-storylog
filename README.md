@@ -4,13 +4,13 @@ Storylog's ESLint shared config
 
 ## Usage
 
-Install package
+Install packages
 
 ```sh
   # yarn
-  yarn add --dev https://github.com/storylog/eslint-config-storylog.git
+  yarn add --dev eslint https://github.com/storylog/eslint-config-storylog.git
   # npm
-  npm install --save-dev https://github.com/storylog/eslint-config-storylog.git
+  npm install --save-dev eslint https://github.com/storylog/eslint-config-storylog.git
 ```
 
 Add `"extends": "storylog"` to .eslintrc 
