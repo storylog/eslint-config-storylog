@@ -13,4 +13,10 @@ Install packages
   npm install --save-dev eslint https://github.com/storylog/eslint-config-storylog.git
 ```
 
-Add `"extends": "storylog"` to .eslintrc 
+Add eslint-config-storylog to .eslintrc
+
+```json
+{
+  "extends": "storylog"
+}
+```
