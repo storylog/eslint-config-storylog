@@ -6,5 +6,6 @@ module.exports = {
     'max-len': 'off',
     'no-underscore-dangle': ['error', { allow: ['_id'], allowAfterThis: true }],
     'react/no-danger': 'off',
+    'eol-last': ['error', 'always'],
   },
 };
