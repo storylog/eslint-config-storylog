@@ -13,7 +13,7 @@
   "author": "Natthakit Susanthitanon <ns@storylog.co>",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "^15.0.1",
+    "eslint-config-airbnb": "https://github.com/airbnb/javascript.git",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.0.1",
     "eslint-plugin-react": "^7.0.1"

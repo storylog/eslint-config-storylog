@@ -1,5 +1,5 @@
 module.exports = {
-  extends: 'airbnb',
+  extends: 'airbnb/packages/eslint-config-airbnb',
   rules: {
     'comma-dangle': ['error', 'always-multiline'],
     'jsx-a11y/no-static-element-interactions': 'off',
