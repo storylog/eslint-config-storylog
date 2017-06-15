@@ -8,9 +8,9 @@ Install packages
 
 ```sh
   # yarn
-  yarn add --dev eslint https://github.com/storylog/eslint-config-storylog.git
+  yarn add --dev eslint@3.19.0 https://github.com/storylog/eslint-config-storylog.git
   # npm
-  npm install --save-dev eslint https://github.com/storylog/eslint-config-storylog.git
+  npm install --save-dev eslint@3.19.0 https://github.com/storylog/eslint-config-storylog.git
 ```
 
 Add eslint-config-storylog to .eslintrc
