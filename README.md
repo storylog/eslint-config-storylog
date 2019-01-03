@@ -7,10 +7,7 @@ Storylog's ESLint shared config
 Install packages
 
 ```sh
-  # yarn
-  yarn add --dev eslint https://github.com/storylog/eslint-config-storylog.git
-  # npm
-  npm install --save-dev eslint https://github.com/storylog/eslint-config-storylog.git
+  yarn add --D eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react https://github.com/storylog/eslint-config-storylog.git
 ```
 
 Add eslint-config-storylog to .eslintrc
