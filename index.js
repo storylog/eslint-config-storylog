@@ -26,6 +26,7 @@ module.exports = {
       allow: ['_id'],
       allowAfterThis: true,
     }],
+    'react/destructuring-assignment': ['never'],
     'react/forbid-prop-types': 'off',
     'react/no-danger': 'off',
     'react/prefer-stateless-function': 'off',
