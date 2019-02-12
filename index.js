@@ -1,5 +1,8 @@
 module.exports = {
   extends: 'airbnb',
+  plugins: [
+    'react-hooks',
+  ],
   rules: {
     'consistent-return': 'off',
     'function-paren-newline': ['error', 'multiline'],
@@ -30,5 +33,6 @@ module.exports = {
     'react/forbid-prop-types': 'off',
     'react/no-danger': 'off',
     'react/prefer-stateless-function': 'off',
+    'react-hooks/rules-of-hooks': 'error',
   },
 };
